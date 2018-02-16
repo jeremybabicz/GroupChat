@@ -1,2 +1,2 @@
 # GroupChat
-A simple loopback chat program
+A simple loopback group chat program
